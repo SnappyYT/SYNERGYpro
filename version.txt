@@ -1,4 +1,4 @@
-[Version : Alpha 2.6.3]
+[Version : Alpha 2.6.0]
 
 #1 A-I bot updated
 #2 Custom sound when opening the menu 
