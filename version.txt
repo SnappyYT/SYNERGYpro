@@ -1,6 +1,1 @@
-[Version : Alpha 2.6.0]
-
-#1 A-I bot updated
-#2 Custom sound when opening the menu 
-#3 Bug fixed
-#4 Loader made and fixed
+2.6.3
